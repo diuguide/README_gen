@@ -105,7 +105,7 @@ function init() {
         } else {
             answers.contributors = noContributors;
         }
-        writeToFile("goodREADME.md", answers);
+        writeToFile("sampleREADME.md", answers);
     });
 };
 init();

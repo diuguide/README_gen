@@ -1,5 +1,5 @@
-# README Generator 
-  undefined [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
+# README generator 
+  [![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](https://www.contributor-covenant.org/version/2/0/code_of_conduct/)
   # Table of Contents
   * [Project Description](#project-description)
   * [Installation](#installation)
@@ -9,15 +9,15 @@
   * [Contributions](#contributions)
   * [Questions](#questions)
   # Project Description
-  This application is a readme generator.  This app utilizes a CLI using node, npm and javascript.  The user is able to answer the prompt which then uses user input to create a readme based on a standard format.
+  this is a readme generator using a node based CLI that takes user input and returns a properly formatted readme file.
   # Installation
-  The user needs to use node and install the inquirer and fs dependancies.
+  the user is required to install npm, node, and inquirer dependancies in order to run this program.
   # Usage
-  The user can best use this program through their terminal or gitbash, then access the created readme in file explorer or finder.
+  For best results, use gitbash or your terminal to run this program.
   # Tests
-  no relavent testing comments.
+  There are no tests currently developed for this application.
   # License
-  undefined
+  Licensed under the [ISC License](https://spdx.org/licenses/ISC.html).
   # Contributions
   If you would like to contribute to this project, please follow the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/) guidelines.
   # Questions
