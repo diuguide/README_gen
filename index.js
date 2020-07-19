@@ -86,7 +86,7 @@ function writeToFile(fileName, data) {
 // function to initialize program
 function init() {
     inquirer.prompt(questions).then(function (answers) {
-        console.log(answers);
+
         //check for which license user picked
         if (answers.license === "Apache License 2.0") {
             answers.license = apache;
