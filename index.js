@@ -18,7 +18,7 @@ const questions = [
     {
         type: "input",
         name: "title",
-        message: "Please enter the name of your project?",
+        message: "Please enter the name of your project:",
     },
     {
         type: "input",
@@ -28,7 +28,7 @@ const questions = [
     {
         type: "input",
         name: "description",
-        message: "Please enter a project description?",
+        message: "Please enter a project description:",
     },
     {
         type: "input",
@@ -43,7 +43,7 @@ const questions = [
     {
         type: "input",
         name: "projectURL",
-        message: "Enter your webpage address.",
+        message: "Enter your webpage address:",
     },
     {
         type: "input",
@@ -53,7 +53,7 @@ const questions = [
     {
         type: "list",
         name: "license",
-        message: "Please select a license for your project.",
+        message: "Please select a license for your project:",
         choices: [
             "Apache License 2.0",
             "GNU GPLv3",
